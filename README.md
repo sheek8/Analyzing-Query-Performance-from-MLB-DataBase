@@ -15,6 +15,5 @@ The project will focus on the following topics:
 - Develop an understanding of how to analyze query performance
 - Build knowledge and skills in database management tools
 # Technologies Used
-- Lahman's Baseball Database
 - SQL
 - Python
